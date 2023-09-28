@@ -1,0 +1,2 @@
+Connect Database With FastAPI:
+step 1: search "pgadmin"
